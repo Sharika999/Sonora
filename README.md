@@ -10,6 +10,7 @@ Sonora is a feature-rich E-commerce platform built using React, Firebase, and Ta
 - **Shopping Cart & Checkout**: Add items to the cart, update quantities, and complete purchases with integrated Razorpay payment gateway.
 - **State Management**: Redux and Context API for efficient state management.
 - **Responsive Design**: Fully responsive interface using TailwindCSS for mobile, tablet, and desktop views.
+- **Tentatively integrating Voice assistant**
 
 
 ## IoT Demo

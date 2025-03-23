@@ -12,8 +12,8 @@ Sonora is a feature-rich E-commerce platform built using React, Firebase, and Ta
 - **Responsive Design**: Fully responsive interface using TailwindCSS for mobile, tablet, and desktop views.
 
 
-## Installation
-
+## IoT Demo
+<video src="path/to/video.mp4" width="320" height="240" controls></video>
 ### Prerequisites
 
 Before running the project locally, ensure you have the following installed:

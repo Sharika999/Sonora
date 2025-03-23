@@ -14,7 +14,7 @@ Sonora is a feature-rich E-commerce platform built using React, Firebase, and Ta
 
 
 ## IoT Demo
-![Silent Video GIF](WhatsApp Video 2025-03-23 at 11.25.22_4ff474b6.mp4)
+[View the video](IoT_Demo.mp4)
 
 ### Prerequisites
 

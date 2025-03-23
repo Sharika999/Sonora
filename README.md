@@ -158,5 +158,4 @@ We welcome contributions to Sonora! If you'd like to contribute, please follow t
 1. **Fork the repository** on GitHub.
 2. **Clone the repository** to your local machine.
 
-   ```bash
-   git clone https://github.com/Heisenberg300604/Sonora-E-Commerce-Full-Stack-Project.git
+

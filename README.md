@@ -1,6 +1,6 @@
-# Sonora: Full-Stack E-commerce Platform
+# Sonora: Full-Stack E-commerce Platform for the  Visually Impaired
 
-Sonora is a feature-rich E-commerce platform built using React, Firebase, and TailwindCSS. This platform allows users to browse products, manage carts, and complete purchases with a smooth and secure payment process through Razorpay.
+Sonora is a feature-rich E-commerce platform built using React, Firebase, and TailwindCSS. This platform allows users to browse products, manage carts, and complete purchases with a smooth and secure payment process through Razorpay. 
 
 ## Features
 

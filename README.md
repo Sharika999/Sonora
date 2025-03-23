@@ -29,8 +29,8 @@ Before running the project locally, ensure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Heisenberg300604/Sonora-E-Commerce-Full-Stack-Project.git
-   cd Sonora-E-Commerce-Full-Stack-Project
+   git clone https://github.com/rithikamalve/sonora.git
+   cd Sonora
 2. **Install dependencies:**
 
     ```bash

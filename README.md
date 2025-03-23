@@ -11,9 +11,6 @@ Sonora is a feature-rich E-commerce platform built using React, Firebase, and Ta
 - **State Management**: Redux and Context API for efficient state management.
 - **Responsive Design**: Fully responsive interface using TailwindCSS for mobile, tablet, and desktop views.
 
-## Demo
-
-Check out the live demo: [Sonora Live](https://techhive-electronics-market.vercel.app/)
 
 ## Installation
 

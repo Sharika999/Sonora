@@ -163,9 +163,6 @@ In the project directory, you can run:
 - **Payment Gateway**:
   - **Razorpay**: Integrated for secure online payments and order handling.
 
-- **Deployment**:
-  - **Vercel**: For hosting and continuous deployment of the project.
-
 ## Contributing
 
 We welcome contributions to Sonora! If you'd like to contribute, please follow these steps:

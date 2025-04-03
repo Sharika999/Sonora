@@ -163,11 +163,5 @@ In the project directory, you can run:
 - **Payment Gateway**:
   - **Razorpay**: Integrated for secure online payments and order handling.
 
-## Contributing
-
-We welcome contributions to Sonora! If you'd like to contribute, please follow these steps:
-
-1. **Fork the repository** on GitHub.
-2. **Clone the repository** to your local machine.
 
 
